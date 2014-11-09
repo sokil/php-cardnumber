@@ -1,0 +1,16 @@
+{
+    "name": "sokil/php-cardnumber",
+    "description": "Validator of credit card numbers",
+    "authors": [
+        {
+            "name": "sokil",
+            "email": "dmytro.sokil@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sokil\\": "src/"
+        }
+    }
+}
